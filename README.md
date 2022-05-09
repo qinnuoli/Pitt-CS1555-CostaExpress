@@ -1,5 +1,9 @@
 ## CostaExpress
 Contributors: Anastasia Mokhon, Emma(Qinnuo) Li, and Samantha Lavrinc
 
-Please review the guides provided in /doc for project information.<br>
-Please review the **internal branch** for specific updates based on project phases. 
+Main Branch:
+/doc - user guide
+/src/Demo - self-contained, complete, finalized project CostaExpress
+
+Internal Branch:
+/internal - contains ER diagrams and development details in addition to the project itself
